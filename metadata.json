@@ -1,0 +1,5 @@
+{
+  "name": "React E-commerce Store",
+  "description": "A mini e-commerce web application built with React, Redux Toolkit, React Router, and Tailwind CSS, fetching data from the Fake Store API.",
+  "requestFramePermissions": []
+}
