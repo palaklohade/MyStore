@@ -1,4 +1,4 @@
-# My-Store-
+# My-Store
 
 A mini e-commerce web app built with React, React Router, and Redux Toolkit. Features product listing, search, categories, product detail, cart, and checkout flow with form validation, caching, and responsive design using the Fake Store API.
 
